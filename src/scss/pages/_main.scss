@@ -1,0 +1,12 @@
+.main {
+  width: 90%;
+  &__banner {
+    width: 100%;
+    &__background {
+      width: 100%;
+      background-image: url('../../assets/banner-lg.png');
+      padding: 20px;
+      color: #fff;
+    }
+  }
+}
